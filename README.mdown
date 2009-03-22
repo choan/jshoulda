@@ -29,6 +29,12 @@ Please visit <http://jshoulda.scriptia.net> for more information.
       )
     )();
 
+
+## SugarTest
+
+Note that since March, 2009 the author has abandoned work in jShoulda in favor of <a href="http://sugartest.scriptia.net/">SugarTest</a>, a new library wich uses an improved and richer syntax (and still works on top of JsUnitTest).
+
+
 ## Author, license, source code
 
-jShoulda has been created by <a href="http://choangalvez.nom.es/" hreflang="es">Choan Galvez</a> and is freely distributable under the terms of a MIT-style license. The source code resides in a <a href="http://github.com/choan/jshoulda/">Git repository at github</a>.
+jShoulda has been created by <a href="http://choangalvez.nom.es/" hreflang="es">Choan Gálvez</a> and is freely distributable under the terms of a MIT-style license. The source code resides in a <a href="http://github.com/choan/jshoulda/">Git repository at github</a>.
